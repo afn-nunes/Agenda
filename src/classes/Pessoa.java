@@ -1,4 +1,4 @@
-package programas.classes;
+package classes;
 
 public class Pessoa {
     

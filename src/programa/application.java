@@ -1,8 +1,8 @@
-package programas;
+package programa;
 
 import java.util.Scanner;
 
-public class Programa {
+public class application {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
