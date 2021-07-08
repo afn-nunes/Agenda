@@ -10,9 +10,9 @@ public class Pessoa {
     };
 
     public Pessoa(String nome, String sobrenome, String telefone){
-        this.nome = nome;
-        this.nome = sobrenome;
-        this.nome = telefone;
+       this.setNome(nome);
+       this. setSobrenome(sobrenome);
+       this. setTelefone(telefone);
     }
 
     public String getNome() {//recuperar um valor da classe instanciada
